@@ -2,9 +2,15 @@
 layout: page
 title: "Sobre o Laboratório"
 ---
+
+O Laboratório de Realidade Virtual e Jogos Digitais do Insper atua em pesquisa,
+inovação e ensino nas áreas de jogos digitais, realidade virtual e computação
+gráfica, promovendo colaboração entre estudantes, pesquisadores e profissionais,
+e mantendo parceria internacional com a Universidade de Illinois. 
+
 # Disciplinas
 
-## Jogos Digitais <span style="float:right">[Site da disciplina](https://slender-ceder-1da.notion.site/472995f97dac4652ae01e27cf6938078?v=7d17fd5ce2ac4c33b301a676fd35af2a)</span>
+## Jogos Digitais | Jogos e Interação <span style="float:right">[Site da disciplina](https://slender-ceder-1da.notion.site/472995f97dac4652ae01e27cf6938078?v=7d17fd5ce2ac4c33b301a676fd35af2a)</span>
 A disciplina começa com a produção de board games, permitindo o entendimento
 aprofundado de documentação e design centrado no usuário. O foco principal está
 no desafio de desenvolver um jogo completo, abrangendo teorias de
@@ -12,15 +18,14 @@ desenvolvimento e design de jogos. Ao final, os alunos terão produzido um
 tabletop board game (TTBG), um jogo 2D para web criado com Unity e um jogo
 mobile 2D que inclui aspectos de monetização.
 
-## Realidade Virtual <span style="float:right">[Site da disciplina](https://slender-ceder-1da.notion.site/472995f97dac4652ae01e27cf6938078?v=7d17fd5ce2ac4c33b301a676fd35af2a)</span>
-
+## Realidade Virtual 
 
 Uma disciplina prática e voltada para a experiência “mão na massa”, que aborda
 conceitos e aplicações de Realidade Virtual (RV), Realidade Aumentada (RA) e
 Realidade Mista (MR), além de seu histórico e perspectivas futuras. Os alunos
 finalizam o curso com três projetos desenvolvidos para o headset Meta Quest.
 
-## Computação Gráfica  <span style="float:right">[Site da disciplina](https://slender-ceder-1da.notion.site/472995f97dac4652ae01e27cf6938078?v=7d17fd5ce2ac4c33b301a676fd35af2a)</span>
+## Computação Gráfica  <span style="float:right">[Site da disciplina](https://lpsoares.github.io/ComputacaoGrafica/)</span>
 
 Voltada para aspectos de baixo nível da computação gráfica moderna, a primeira
 parte da disciplina foca em algoritmos e técnicas fundamentais que operam abaixo
